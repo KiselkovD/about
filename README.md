@@ -67,11 +67,6 @@
 - состояние: $${\color{green}\textsf{оформлен}}$$, $${\color{blue}\textsf{базовая реализация}}$$
 - репозиторий: [github](https://github.com/KiselkovD/train_sql)
 
-#### train_sql:
-**SQL Excel**, шуточный проект. Весь пользовательский интерфейс реализован в **Excel**. С помощью **VBA макросов**, он может подключаться к серверу **Docker MySQL** и обмениваться информацией.
-- состояние: $${\color{green}\textsf{оформлен}}$$, $${\color{blue}\textsf{базовая реализация}}$$
-- репозиторий: [github](https://github.com/KiselkovD/train_sql)
-
 #### some_ci_test:
 **С++** пример использования **github action**.
 - состояние: $${\color{green}\textsf{оформлен}}$$, $${\color{green}\textsf{реализован}}$$
