@@ -59,17 +59,17 @@
 
 ## Мини Проекты:
 
-#### train_sql:
+#### Train sql:
 **SQL Excel**, шуточный проект. Весь пользовательский интерфейс реализован в **Excel**. С помощью **VBA макросов**, он может подключаться к серверу **Docker MySQL** и обмениваться информацией.
 - состояние: $${\color{green}\textsf{оформлен}}$$, $${\color{blue}\textsf{базовая реализация}}$$
 - репозиторий: [github](https://github.com/KiselkovD/train_sql)
 
-#### some_ci_test:
+#### Some ci test:
 **С++** пример использования **github action**.
 - состояние: $${\color{green}\textsf{оформлен}}$$, $${\color{green}\textsf{реализован}}$$
 - репозиторий: [github](https://github.com/KiselkovD/some_ci_test)
 
-#### func_graph_drawer:
+#### Func graph drawer:
 **С++ SDL2** отображает функции с заданной точностью на оси координат с помощью **sdl2**, установленного через **vcpkg**. Скомпилировано **cmake**.
 - состояние: $${\color{green}\textsf{оформлен}}$$, $${\color{green}\textsf{реализован}}$$
 - репозиторий: [github](https://github.com/KiselkovD/func_graph_drawer)
