@@ -41,7 +41,7 @@
 - состояние: $${\color{purple}\textsf{не оформлен}}$$, $${\color{green}\textsf{реализован}}$$
 - репозиторий: []()
 - интерактивная версия: [shadertoy](https://www.shadertoy.com/playlist/DXXSRX)
-- скриншоты: ![alt text](res/vkr_ui_0.png)! [alt text](res/vkr_ui_1.png)! [alt text](res/vkr_ui_2.png)
+- скриншоты: <div> <img src="https://github.com/KiselkovD/about/blob/main/res/vkr_ui_0.png" alt="example how it work" height="350"/><img src="https://github.com/KiselkovD/about/blob/main/res/vkr_ui_1.png" alt="example how it work" height="350"/><img src="https://github.com/KiselkovD/about/blob/main/res/vkr_ui_2.png" alt="example how it work" height="350"/> </div>
 
 #### Game of Life 2:
 **C# WPF** , сделал игру жизнь используя **ООП**, наследованием реализовал различные виды клеток. Игра выполнена в темной теме, обладает редактором поля, и загрузкой/сохранением 
