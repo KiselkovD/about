@@ -66,15 +66,16 @@
 - репозиторий: [github](https://github.com/KiselkovD/train_sql)
 
 #### Some ci test:
-**С++** пример использования **github action**.
+**С++**, пример использования **github action**.
 - состояние: $${\color{green}\textsf{оформлен}}$$, $${\color{green}\textsf{реализован}}$$
 - репозиторий: [github](https://github.com/KiselkovD/some_ci_test)
 
 #### Func graph drawer:
-**С++ SDL2** отображает функции с заданной точностью на оси координат с помощью **sdl2**, установленного через **vcpkg**. Скомпилировано **cmake**.
+**С++ SDL2**, отображает функции с заданной точностью на оси координат с помощью **sdl2**, установленного через **vcpkg**. Скомпилировано **cmake**.
 - состояние: $${\color{green}\textsf{оформлен}}$$, $${\color{green}\textsf{реализован}}$$
 - репозиторий: [github](https://github.com/KiselkovD/func_graph_drawer)
 
 #### Ahk tools:
-**Ahk** небольшой набор инструментов для автоматизации некоторых задач.
-[github](https://github.com/KiselkovD/ahk_tools)
+**Ahk**, небольшой набор инструментов для автоматизации некоторых задач.
+- состояние: $${\color{green}\textsf{оформлен}}$$, $${\color{green}\textsf{реализован}}$$
+- репозиторий: [github](https://github.com/KiselkovD/ahk_tools)
