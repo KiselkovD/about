@@ -39,7 +39,7 @@
 #### Gradient editor:
 **С++ QT**, дипломная работа: разработка библиотеки для настраиваемого, контролируемого выделения и редактирования частей растровых изображений. Была создана библиотека, предоставляющая инструменты редактирования с множеством настроек. Программа позволяет с помощью шейдеров **OpenGL** выделить область изображения используя сразу несколько настроек, например комбинируя `перекрытие зазоров` и `относительное выделение` можно выделять буквы текстура которых совпадает с текстурой фона, получая минимум артефактов.
 - состояние: $${\color{purple}\textsf{не оформлен}}$$, $${\color{green}\textsf{реализован}}$$
-- репозиторий: []()
+<!-- - репозиторий: []() -->
 - интерактивная версия: [shadertoy](https://www.shadertoy.com/playlist/DXXSRX)
 - скриншоты: <p><a> <img src="https://github.com/KiselkovD/about/blob/main/res/vkr_ui_0.png" alt="example how it work" height="200"/> </a><a> <img src="https://github.com/KiselkovD/about/blob/main/res/vkr_ui_1.png" alt="example how it work" height="200"/> </a><a> <img src="https://github.com/KiselkovD/about/blob/main/res/vkr_ui_2.png" alt="example how it work" height="200"/> </a></p>
 
@@ -51,13 +51,13 @@
 #### Event master:
 **С++ winapi**, программа начинавшаяся с простого уведомления каждое утро проверяющие и показывающие события, выросшая до календаря с поиском по датам и функции печати событий преобразованных в **word** документ.
 - состояние: $${\color{purple}\textsf{не оформлен}}$$, $${\color{blue}\textsf{базовая реализация}}$$
-- репозиторий: []()
+<!-- - репозиторий: []() -->
 - скриншоты: <p><a> <img src="https://github.com/KiselkovD/about/blob/main/res/ivent.png" alt="example how it work" height="200"/> </a><a> <img src="https://github.com/KiselkovD/about/blob/main/res/ivent_more.png" alt="example how it work" height="200"/> </a></p><p><a> <img src="https://github.com/KiselkovD/about/blob/main/res/date_choose.png" alt="example how it work" height="200"/> </a><a> <img src="https://github.com/KiselkovD/about/blob/main/res/date_choose_2.png" alt="example how it work" height="200"/> </a></p>
 
 #### Usb hid:
 **С++ Keil** `(stm32f103c8t6)`, создана программа позволяющая подключить плату по **USB hid** и управлять ей с компьютера. Были выбраны три порта которые можно было включать, отключать (3.3В между портом и землей), также можно было проверять замкнуты ли они с портом +3.3В.
 - состояние: $${\color{purple}\textsf{не оформлен}}$$, $${\color{blue}\textsf{базовая реализация}}$$
-- репозиторий: []()
+<!-- - репозиторий: []() -->
 
 ## Мини Проекты:
 
