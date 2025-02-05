@@ -41,7 +41,7 @@
 - состояние: $${\color{purple}\textsf{не оформлен}}$$, $${\color{green}\textsf{реализован}}$$
 - репозиторий: []()
 - интерактивная версия: [shadertoy](https://www.shadertoy.com/playlist/DXXSRX)
-- скриншоты: <p><a> <img src="https://github.com/KiselkovD/about/blob/main/res/vkr_ui_0.png" alt="example how it work" height="200"/> </a><a> <img src="https://github.com/KiselkovD/about/blob/main/res/vkr_ui_1.png" alt="example how it work" height="200"/> </a><a> <img src="https://github.com/KiselkovD/about/blob/main/res/vkr_ui_2.png" alt="example how it work" height="200"/> </div> </a></p>
+- скриншоты: <p><a> <img src="https://github.com/KiselkovD/about/blob/main/res/vkr_ui_0.png" alt="example how it work" height="200"/> </a><a> <img src="https://github.com/KiselkovD/about/blob/main/res/vkr_ui_1.png" alt="example how it work" height="200"/> </a><a> <img src="https://github.com/KiselkovD/about/blob/main/res/vkr_ui_2.png" alt="example how it work" height="200"/> </a></p>
 
 #### Game of Life 2:
 **C# WPF** , сделал игру жизнь используя **ООП**, наследованием реализовал различные виды клеток. Игра выполнена в темной теме, обладает редактором поля, и загрузкой/сохранением 
@@ -52,6 +52,7 @@
 **С++ winapi**, программа начинавшаяся с простого уведомления каждое утро проверяющие и показывающие события, выросшая до календаря с поиском по датам и функции печати событий преобразованных в **word** документ.
 - состояние: $${\color{purple}\textsf{не оформлен}}$$, $${\color{blue}\textsf{базовая реализация}}$$
 - репозиторий: []()
+- скриншоты: <p><a> <img src="https://github.com/KiselkovD/about/blob/main/res/ivent.png" alt="example how it work" height="200"/> </a><a> <img src="https://github.com/KiselkovD/about/blob/main/res/ivent_more.png" alt="example how it work" height="200"/> </a></p><p><a> <img src="https://github.com/KiselkovD/about/blob/main/res/date_choose.png" alt="example how it work" height="200"/> </a><a> <img src="https://github.com/KiselkovD/about/blob/main/res/date_choose_2.png" alt="example how it work" height="200"/> </a></p>
 
 #### Usb hid:
 **С++ Keil** `(stm32f103c8t6)`, создана программа позволяющая подключить плату по **USB hid** и управлять ей с компьютера. Были выбраны три порта которые можно было включать, отключать (3.3В между портом и землей), также можно было проверять замкнуты ли они с портом +3.3В.
