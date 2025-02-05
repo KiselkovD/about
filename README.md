@@ -40,13 +40,13 @@
 **С++ QT**, дипломная работа: разработка библиотеки для настраиваемого, контролируемого выделения и редактирования частей растровых изображений. Была создана библиотека, предоставляющая инструменты редактирования с множеством настроек. Программа позволяет с помощью шейдеров **OpenGL** выделить область изображения используя сразу несколько настроек, например комбинируя `перекрытие зазоров` и `относительное выделение` можно выделять буквы текстура которых совпадает с текстурой фона, получая минимум артефактов.
 - состояние: $${\color{purple}\textsf{не оформлен}}$$, $${\color{green}\textsf{реализован}}$$
 <!-- - репозиторий: []() -->
-- интерактивная версия: [shadertoy](https://www.shadertoy.com/playlist/DXXSRX)
+- интерактивная версия (шейдеры реализующие часть функций): [shadertoy](https://www.shadertoy.com/playlist/DXXSRX)
 - скриншоты: <p><a> <img src="https://github.com/KiselkovD/about/blob/main/res/vkr_ui_0.png" alt="example how it work" height="200"/> </a><a> <img src="https://github.com/KiselkovD/about/blob/main/res/vkr_ui_1.png" alt="example how it work" height="200"/> </a><a> <img src="https://github.com/KiselkovD/about/blob/main/res/vkr_ui_2.png" alt="example how it work" height="200"/> </a></p>
 
 #### Game of Life 2:
 **C# WPF** , сделал игру жизнь используя **ООП**, наследованием реализовал различные виды клеток. Игра выполнена в темной теме, обладает редактором поля, и загрузкой/сохранением 
 - состояние: $${\color{purple}\textsf{не оформлен}}$$, $${\color{blue}\textsf{базовая реализация}}$$
-- репозиторий: [github](https://github.com/KiselkovD/life_game/tree/main)
+- репозиторий (скриншоты и код): [github](https://github.com/KiselkovD/life_game/tree/main)
 
 #### Event master:
 **С++ winapi**, программа начинавшаяся с простого уведомления каждое утро проверяющие и показывающие события, выросшая до календаря с поиском по датам и функции печати событий преобразованных в **word** документ.
@@ -64,7 +64,7 @@
 #### Train sql:
 **SQL Excel**, шуточный проект. Весь пользовательский интерфейс реализован в **Excel**. С помощью **VBA макросов**, он может подключаться к серверу **Docker MySQL** и обмениваться информацией.
 - состояние: $${\color{green}\textsf{оформлен}}$$, $${\color{blue}\textsf{базовая реализация}}$$
-- репозиторий: [github](https://github.com/KiselkovD/train_sql)
+- репозиторий (скриншоты и код): [github](https://github.com/KiselkovD/train_sql)
 
 #### Some ci test:
 **С++**, пример использования **github action**.
@@ -74,7 +74,7 @@
 #### Func graph drawer:
 **С++ SDL2**, отображает функции с заданной точностью на оси координат с помощью **sdl2**, установленного через **vcpkg**. Скомпилировано **cmake**.
 - состояние: $${\color{green}\textsf{оформлен}}$$, $${\color{green}\textsf{реализован}}$$
-- репозиторий: [github](https://github.com/KiselkovD/func_graph_drawer)
+- репозиторий (скриншоты и код): [github](https://github.com/KiselkovD/func_graph_drawer)
 
 #### Ahk tools:
 **Ahk**, небольшой набор инструментов для автоматизации некоторых задач.
